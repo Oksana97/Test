@@ -20,6 +20,8 @@ let arrayNumbers = [
         }
     }
     
+
+  
     selectMainDiagonal(arr);
     console.log(arrayNumbers);
     let arr = []
