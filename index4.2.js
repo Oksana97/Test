@@ -1,6 +1,6 @@
 let arrayNumbers = [
   [3, 7, 12, 13, , 0 ,17, 21, ];
-  
+
 ];
 
     function selectMainDiagonal(items) {
@@ -20,6 +20,7 @@ let arrayNumbers = [
 
 
   
+    
   
   
   newFunction();
