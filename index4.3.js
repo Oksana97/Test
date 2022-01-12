@@ -1,5 +1,5 @@
 
-    let browsers = ["Edge", "Chrome", "Firefox", "Safari", "Opera"];
+    let browsers = ("Chrome");
     switch (browsers) {
         case "Edge":
             alert("You've got the Edge");

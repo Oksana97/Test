@@ -1,11 +1,3 @@
-var name = 'Oksana';
-console.log(name);
-
-function toDo () {
-    
-}
-
-
 
 
 // function to check if a given number is prime

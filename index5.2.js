@@ -1,22 +1,13 @@
-// Create an object:
-const user = {firstName:" ", lastName:" "};
-user.firstName = "John";
-user["lastName"] = "Name Surname";
-
-alert("Hello, my name is " + user.lastName);
 
 
-
-
-
-
-const user = {
-    user.firstName = "John";
-    user.lastName = "Name Surname";
-    fullName:  function() {
-      return "Hello, my name is " + this.lastName;
-    }
-  };
+let user1 = {}; 
+user1.firstName = "John";    
+function fullName (surName){
+    user1.surName = surName;
+    console.log(`Hello ${user1.firstName} ${user1.surName}`);
+};
+fullName("Mark");
+// Hello John Mark
 
   
 
