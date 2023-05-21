@@ -1,8 +1,7 @@
 
 
 // function to check if a given number is prime
-function isPrime( n)
-{
+function isPrime( n) {
       // since 0 and 1 is not prime return false.
       if(n == 1 || n == 0) return false;
    
